@@ -181,7 +181,7 @@
     }
     
     .section_heading > h3 {
-        color: #FF9800;
+        color: #3ABDC1;
         margin-bottom: 0;
         text-transform: capitalize;
     }
@@ -214,7 +214,7 @@
     .cssload-loader {
         -webkit-animation: 2.3s ease 0s normal none infinite running cssload-loader;
         animation: 2.3s ease 0s normal none infinite running cssload-loader;
-        border: 5px solid #FF9800;
+        border: 5px solid #3ABDC1;
         display: block;
         height: 50px;
         margin: auto;
@@ -231,7 +231,7 @@
         vertical-align: top;
         display: inline-block;
         width: 100%;
-        background-color: #FF9800;
+        background-color: #3ABDC1;
         animation: cssload-loader-inner 2.3s infinite ease-in;
         -o-animation: cssload-loader-inner 2.3s infinite ease-in;
         -ms-animation: cssload-loader-inner 2.3s infinite ease-in;
@@ -322,7 +322,7 @@
     }
     
     #scrollUp {
-        background-color: #ff9800;
+        background-color: #3ABDC1;
         border-radius: 5px;
         bottom: 20px;
         color: #fff;
@@ -397,7 +397,7 @@
     }
     
     .main_header_area .mainmenu ul#nav li.current_page_item a {
-        color: #ff9800;
+        color: #3ABDC1;
     }
     
     .main_header_area.sticky .mainmenu ul#nav li.current_page_item a {
@@ -427,7 +427,7 @@
     .main_header_area.sticky .mainmenu ul#nav li:hover a,
     .mainmenu ul#nav li.active a,
     .mainmenu ul#nav li:hover a {
-        color: #FF9800;
+        color: #3ABDC1;
     }
     
     .blog_page .main_header_area {
@@ -485,7 +485,7 @@
     }
     
     .single_slide .slide_text h2 > span {
-        color: #FF9800;
+        color: #3ABDC1;
     }
     
     .single_slide .slide_text h3 {
@@ -510,7 +510,7 @@
     }
     
     .single_slide .slide_text a:hover {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
         color: #fff;
     }
     
@@ -528,7 +528,7 @@
         background-color: #fff;
         border-radius: 50%;
         box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.1);
-        color: #FF9800;
+        color: #3ABDC1;
         cursor: pointer;
         font-weight: 400;
         height: 50px;
@@ -551,7 +551,7 @@
     
     .welcome_area .welcome_slides .owl-nav .owl-prev:hover,
     .welcome_area .welcome_slides .owl-nav .owl-next:hover {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
         color: #fff
     }
     
@@ -590,7 +590,7 @@
     }
     
     .single_feature:after {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
         bottom: 0;
         content: "";
         height: 5px;
@@ -629,7 +629,7 @@
     
     .single_feature:hover .feature_img i,
     .single_feature.active .feature_img i {
-        color: #FF9800;
+        color: #3ABDC1;
         -webkit-transition-duration: 500ms;
         transition-duration: 500ms;
     }
@@ -645,7 +645,7 @@
     
     .single_feature:hover .feature_text h4,
     .single_feature.active .feature_text h4 {
-        color: #FF9800;
+        color: #3ABDC1;
     }
     
     .single_feature .feature_text p {
@@ -654,7 +654,7 @@
 
     /* >>>>>>>>>>>>>> :: 7.0 About Us Area CSS <<<<<<<<<<<<<<< */
     .about_us_text > h3 {
-        color: #FF9800;
+        color: #3ABDC1;
         text-transform: uppercase;
     }
     
@@ -685,7 +685,7 @@
     
     .about_us_text a:hover,
     .about_us_text a:focus {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
         color: #fff;
     }
 
@@ -790,7 +790,7 @@
     }
     
     .single_service:hover .learn_more > a > h4 {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
     }
 
     /* >>>>>>>>>>>>>> :: 9.0 Service Details Modal Area CSS <<<<<<<<<<<<<<< */
@@ -939,7 +939,7 @@
     .single_service_title:nth-child(even):hover > a,
     .single_service_title > a.active {
         color: #fff;
-        background-color: #FF9800;
+        background-color: #3ABDC1;
     }
     
     .single_service_title:last-child > a {
@@ -969,7 +969,7 @@
     }
     
     .service_data_dl > a.pdf_dl {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
     }
     
     .service_data_dl > a:hover {
@@ -1035,7 +1035,7 @@
         font-weight: 600;
         -webkit-transition-duration: 500ms;
         transition-duration: 500ms;
-        color: #FF9800;
+        color: #3ABDC1;
         margin-bottom: 15px;
     }
     
@@ -1165,7 +1165,7 @@
     
     .price_plan_area .single_price_plan .button > a:hover,
     .price_plan_area .single_price_plan .button > a:focus {
-        color: #ff9800;
+        color: #3ABDC1;
         background-color: transparent;
         text-decoration: underline;
     }
@@ -1175,7 +1175,7 @@
     }
     
     .price_plan_area .single_price_plan:hover .title {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
     }
     
     .price_plan_area.price .single_price_plan {
@@ -1251,7 +1251,7 @@
     }
     
     .social_icon > a:hover {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
     }
     
     .our_advisor_area .owl-nav {
@@ -1263,7 +1263,7 @@
     
     .our_advisor_area .owl-prev,
     .our_advisor_area .owl-next {
-        background-color: #ff9800;
+        background-color: #3ABDC1;
         border: 2px solid transparent;
         border-radius: 6px;
         color: #fff;
@@ -1288,8 +1288,8 @@
     .our_advisor_area .owl-prev:hover,
     .our_advisor_area .owl-next:hover {
         background-color: transparent;
-        border: 2px solid #FF9800;
-        color: #FF9800;
+        border: 2px solid #3ABDC1;
+        color: #3ABDC1;
     }
     
     .our_advisor_area.advisor .single_advisor_profile {
@@ -1334,7 +1334,7 @@
     }
     
     .testimonial_author_name > h5 {
-        color: #ff9800;
+        color: #3ABDC1;
         font-size: 18px;
         font-weight: 400;
         margin-bottom: 5px;
@@ -1374,7 +1374,7 @@
     }
     
     .testimonial_area .owl-dot.active {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
         height: 5px;
         width: 20px;
     }
@@ -1426,7 +1426,7 @@
     }
     
     .single_latest_news_area:hover .single_latest_news_text_area .news_title h4 {
-        color: #FF9800;
+        color: #3ABDC1;
     }
     
     .news_content > p {
@@ -1490,7 +1490,7 @@
     
     .footer_bottom p > i,
     .footer_bottom p > a:hover {
-        color: #FF9800;
+        color: #3ABDC1;
     }
     
     .social_links_area {
@@ -1532,7 +1532,7 @@
     .single-accordion h5 a {
         background-color: transparent;
         border: 1px solid #ddd;
-        color: #FF9800;
+        color: #3ABDC1;
         display: block;
         font-weight: 400;
         line-height: 21px;
@@ -1625,7 +1625,7 @@
     }
     
     .single_timeline_block .timeline_icon {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
         border-radius: 50%;
         color: #fff;
         height: 50px;
@@ -1661,7 +1661,7 @@
     }
     
     .timeline_text_content:hover {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
         color: #fff;
     }
     
@@ -1689,7 +1689,7 @@
     }
     
     .timeline_text_content:hover:after {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
     }
     
     .timeline_text_content:hover p {
@@ -1773,7 +1773,7 @@
     }
     
     .breadcrumb li > a:hover {
-        color: #FF9800;
+        color: #3ABDC1;
     }
     
     .page_title {
@@ -1783,7 +1783,7 @@
     }
     
     .page_title > h3 {
-        color: #FF9800;
+        color: #3ABDC1;
         font-weight: 700;
         text-transform: uppercase;
     }
@@ -1823,7 +1823,7 @@
     
     .singl-blog-status-bar {
         background: #f6f6f6 none repeat scroll 0 0;
-        border-left: 10px solid #ff9800;
+        border-left: 10px solid #3ABDC1;
         margin-bottom: 30px;
         position: relative;
     }
@@ -2083,7 +2083,7 @@
     
     .gallery_info h5 {
         border-bottom: 1px dashed #2c3e50;
-        color: #ff9800;
+        color: #3ABDC1;
         display: inline-block;
         margin-bottom: 5px;
         padding: 10px 0;
@@ -2170,7 +2170,7 @@
     .pager .next > a:hover {
         border: 2px solid transparent;
         color: #fff;
-        background-color: #FF9800;
+        background-color: #3ABDC1;
     }
     
     .live_preview > a {
@@ -2186,7 +2186,7 @@
     }
     
     .live_preview > a:hover {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
         color: #fff;
     }
 
@@ -2207,7 +2207,7 @@
     
     .contact_input_area .form-group input:focus,
     .contact_input_area .form-group textarea:focus {
-        border: 2px solid #FF9800;
+        border: 2px solid #3ABDC1;
     }
     
     .contact_input_area .form-group textarea {
@@ -2237,9 +2237,9 @@
     }
     
     .contact_input_area button:hover {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
         color: #fff;
-        border: 2px solid #FF9800;
+        border: 2px solid #3ABDC1;
     }
     
     .success,
@@ -2291,7 +2291,7 @@
     }
     
     .address-area .single_part > i {
-        color: #FF9800;
+        color: #3ABDC1;
         font-size: 20px;
         left: 0;
         position: absolute;
@@ -2315,7 +2315,7 @@
     }
     
     .social_links_area > a:hover {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
         color: #fff;
         border: 2px solid transparent;
     }
@@ -2349,7 +2349,7 @@
     .achive_section ul li > a:hover,
     .catagory_section ul li > a:hover {
         border-bottom: 1px dashed transparent;
-        color: #FF9800;
+        color: #3ABDC1;
         padding: 5px 0 5px 15px;
     }
     
@@ -2375,7 +2375,7 @@
     }
     
     .latest_post .single_latest_post > a > h5:hover {
-        color: #ff9800;
+        color: #3ABDC1;
     }
     
     .latest_post .single_latest_post > p {
@@ -2406,7 +2406,7 @@
     }
     
     .tag_section ul > li > a:hover {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
         border: 2px solid transparent;
         color: #fff;
     }
@@ -2465,7 +2465,7 @@
     }
     
     .single_choose_us:hover .choose_us_icon {
-        background-color: #ff9800;
+        background-color: #3ABDC1;
     }
     
     .why_choose_us_text_area.second_area .single_choose_us {
@@ -2537,7 +2537,7 @@
     }
     
     .textslider .owl-dot.active {
-        background-color: #FF9800;
+        background-color: #3ABDC1;
         height: 10px;
         width: 30px;
     }
