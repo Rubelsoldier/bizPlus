@@ -22,7 +22,7 @@
             nav: true,
             navText: ['<i class="icofont icofont-swoosh-left"></i>', '<i class="icofont icofont-swoosh-right"></i>'],
             dots: false,
-            autoplay: true,
+            // autoplay: true,
             autoplayTimeout: 10000 // 1s = 1000ms
         });
     }
